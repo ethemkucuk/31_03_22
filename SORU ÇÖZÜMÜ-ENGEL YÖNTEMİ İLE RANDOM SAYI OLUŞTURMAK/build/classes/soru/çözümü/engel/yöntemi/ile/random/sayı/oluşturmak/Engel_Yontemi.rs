@@ -1,0 +1,2 @@
+Engel_Yontemi
+soru.çözümü.engel.yöntemi.ile.random.sayı.oluşturmak.SORUÇÖZÜMÜENGELYÖNTEMİİLERANDOMSAYIOLUŞTURMAK
